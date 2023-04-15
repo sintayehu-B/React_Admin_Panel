@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React_Admin_Panel/static/css/main.050bee9c.css",
+    "main.js": "/React_Admin_Panel/static/js/main.deab006f.js",
+    "index.html": "/React_Admin_Panel/index.html",
+    "main.050bee9c.css.map": "/React_Admin_Panel/static/css/main.050bee9c.css.map",
+    "main.deab006f.js.map": "/React_Admin_Panel/static/js/main.deab006f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.050bee9c.css",
+    "static/js/main.deab006f.js"
+  ]
+}
