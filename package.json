@@ -1,6 +1,6 @@
 {
-  "homepage": "http://sintayehu-B.github.io/React_Admin_Panel/src",
-  "name": "sina_dashboard",
+  "homepage": "http://sintayehu-B.github.io/React_Admin_Panel",
+  "name": "react_admin_panel",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
